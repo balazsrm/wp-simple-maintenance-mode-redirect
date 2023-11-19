@@ -3,7 +3,7 @@
  * Plugin Name: Maintenance Mode Redirect
  * Description: Redirects all non-logged-in users to a specific page when activated, excluding wp-admin and wp-login.
  * Version: 1.0
- * Author: Your Name
+ * Author: Balázs Piller
  */
 
 // Add settings page
